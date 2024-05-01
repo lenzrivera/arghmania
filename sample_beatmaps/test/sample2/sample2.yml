@@ -1,0 +1,50 @@
+meta:
+  beats_per_minute: 180
+  beats_per_measure: 4
+  beats_per_offset: 4
+
+events:
+  - at: 5333
+    type: bpmi
+    value: 260
+  - at: 6487
+    type: bpmi
+    value: 220
+
+notes:
+  - at: 1333
+    type: 0
+    track: 0
+  - at: 1666
+    type: 0
+    track: 0
+  - at: 2000
+    type: 0
+    track: 0
+  - at: 2333
+    type: 0
+    track: 0
+  - at: 3083
+    type: 0
+    track: 0
+  - at: 3750
+    type: 0
+    track: 0
+  - at: 5333
+    type: 0
+    track: 0
+  - at: 5564
+    type: 0
+    track: 0
+  - at: 5794
+    type: 0
+    track: 0
+  - at: 6025
+    type: 0
+    track: 0
+  - at: 6555
+    type: 0
+    track: 0
+  - at: 7100
+    type: 0
+    track: 0

@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Libre Baskerville';
+  src: url('./assets/fonts/LibreBaskerville-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Almendra SC';
+  src: url('./assets/fonts/AlmendraSC-Regular.ttf');
+}

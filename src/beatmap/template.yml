@@ -1,0 +1,26 @@
+# Click the folder icon at the top-left to change audio and background.
+
+meta:
+  title: Title
+  artist: Artist
+  beats_per_minute: 180
+  beats_per_measure: 4
+
+  # approach_rate: [number]
+  # start_offset: [number]
+
+events:
+  []
+
+  # - at: [time]
+  #   type: [bpmi|bpme|ar]
+  #   value: [number]
+
+notes:
+  []
+
+  # - at: [time]
+  #   type: [hit|hold|trick]
+  #   [until]: [time]
+  #   track: [0-3]
+  #   [to_track]: [number]

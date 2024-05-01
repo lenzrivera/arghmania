@@ -1,0 +1,38 @@
+{
+  "name": "arghmania",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "4-key mania clone",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2.4.2",
+    "@types/howler": "^2.2.11",
+    "eslint": "^8.48.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-svelte": "^2.33.0",
+    "prettier": "3.0.3",
+    "prettier-plugin-svelte": "^3.0.3",
+    "svelte": "^4.0.5",
+    "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.24.4",
+    "@codemirror/lang-yaml": "^6.0.0",
+    "@frsource/frs-hide-scrollbar": "^2.0.14",
+    "@uiw/codemirror-theme-material": "^4.21.25",
+    "ajv": "^8.12.0",
+    "decimal.js": "^10.4.3",
+    "eventemitter3": "^5.0.1",
+    "howler": "^2.2.4",
+    "idb-keyval": "^6.2.1",
+    "js-yaml": "^4.1.0",
+    "pixi.js": "^8.1.0",
+    "stats-lite": "^2.2.0",
+    "svelte-codemirror-editor": "^1.2.0",
+    "uniqid": "^5.4.0"
+  }
+}

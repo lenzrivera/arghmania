@@ -1,0 +1,33 @@
+meta:
+  beats_per_minute: 121
+  beats_per_measure: 4 
+  beats_per_offset: 4
+
+events:
+  {}
+
+notes:
+  - at: 1983
+    type: 0
+    track: 0
+  - at: 2727
+    type: 0
+    track: 0
+  - at: 3966
+    type: 0
+    track: 0
+  - at: 4710
+    type: 0
+    track: 0
+  - at: 5950
+    type: 0
+    track: 0
+  - at: 6694
+    type: 0
+    track: 0
+  - at: 7933
+    type: 0
+    track: 0
+  - at: 8429
+    type: 0
+    track: 0

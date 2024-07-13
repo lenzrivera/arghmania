@@ -1,6 +1,9 @@
 # A R G H M A N I A
 
-A very limited and scuffed 4-key mania clone of sorts. Has the barebones features of what you'd expect: gameplay with scoring and metrics as well as an editor.
+A rudimentary 4-key mania clone of sorts. Has the barebones features of what you'd expect: gameplay with scoring and metrics as well as an editor.
+
+![Sample Image](docs/sample.png)
+[Live demo can be found here.](https://lenzrivera.github.io/arghmania)
 
 I basically gave myself a week and a half (and no more!) to get this project from the barest of the barebones to something that at least looks polished. So, while it works, there are certainly many other things that it could use. These include but are not limited to:
 

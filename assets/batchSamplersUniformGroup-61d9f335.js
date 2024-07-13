@@ -1,0 +1,1 @@
+import{M as a,__tla as _}from"./index-fdc77110.js";import{U as l,__tla as s}from"./colorToUniform-ed2b0528.js";let e,o=Promise.all([(()=>{try{return _}catch{}})(),(()=>{try{return s}catch{}})()]).then(async()=>{const r=new Int32Array(a);for(let t=0;t<a;t++)r[t]=t;e=new l({uTextures:{value:r,type:"i32",size:a}},{isStatic:!0})});export{o as __tla,e as b};
